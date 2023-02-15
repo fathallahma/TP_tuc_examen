@@ -39,6 +39,8 @@ Exécuter dans le dossier application
 
 > python -m pytest
 
+### Les tests unitaire se trouve dans le dossier app sur le nom du fichier test_unit.py
+
 ## Coverage
 
 > coverage run -m pytest --profile # remplace la commande python
